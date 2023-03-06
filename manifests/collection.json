@@ -11,5 +11,9 @@
       "none" : [ "" ]
     },
     "type" : "Manifest"
+  }, {
+    "@type" : "sc:Manifest",
+    "@id" : "https://eliaskreyenbuehl.github.io/T1-2023/manifests/manifest02.json",
+    "label" : ""
   } ]
 }
