@@ -57,8 +57,8 @@
           "@id" : "https://www.e-rara.ch/i3f/v20/24389625/165,102,5195,7037/full/0/default.jpg",
           "@type" : "dctypes:Image",
           "format" : "image/jpeg",
-          "height" : 1178,
-          "width" : 1000,
+          "height" : 7037,
+          "width" : 5195,
           "service" : {
             "@id" : "https://www.e-rara.ch/i3f/v20/24389625",
             "profile" : "level2"
