@@ -1,7 +1,7 @@
 {
   "@id" : "https://eliaskreyenbuehl.github.io/T1-2023/manifests/manifest02.json",
   "@type" : "sc:Manifest",
-  "label" : "",
+  "label" : "Diverse Bilder vom Berner und Strassburger Münster",
   "metadata" : [ {
     "label" : "Title",
     "value" : "Bern. Das Münster"
