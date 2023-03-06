@@ -1,0 +1,119 @@
+{
+  "id" : "https://eliaskreyenbuehl.github.io/T1-2023/manifests/muenster01_manifest.json",
+  "type" : "Manifest",
+  "annotations" : [ ],
+  "behavior" : [ "paged", "paged" ],
+  "homepage" : [ ],
+  "items" : [ {
+    "id" : "https://www.e-rara.ch/i3f/v20/24389624/canvas/24389625",
+    "type" : "Canvas"
+  }, {
+    "id" : "https://example.org/canvas/2b03fa85-e66a-4846-81db-9e161208b445",
+    "type" : "Canvas"
+  }, {
+    "id" : "https://example.org/canvas/c0856760-7907-4fda-a5af-0d78345de9bd",
+    "type" : "Canvas"
+  }, {
+    "id" : "https://example.org/canvas/4844194f-2a31-47e1-93b6-a544ad397013",
+    "type" : "Canvas"
+  }, {
+    "id" : "https://example.org/canvas/2b722be6-98e2-47bf-b46b-71bef0434eda",
+    "type" : "Canvas"
+  }, {
+    "id" : "https://example.org/canvas/384971d3-4ab7-421e-bfde-6f897a2f1568",
+    "type" : "Canvas"
+  }, {
+    "id" : "https://example.org/canvas/a163f2e2-f4db-478c-acc5-a1f87488658d",
+    "type" : "Canvas"
+  }, {
+    "id" : "https://example.org/canvas/4a7ecf86-9d0d-47ec-9aea-f29a04363d46",
+    "type" : "Canvas"
+  }, {
+    "id" : "https://example.org/canvas/95c30695-f56f-478c-be76-e20f1ccd2b24",
+    "type" : "Canvas"
+  } ],
+  "label" : {
+    "none" : [ "" ]
+  },
+  "logo" : [ ],
+  "metadata" : [ {
+    "label" : {
+      "none" : [ "Title" ]
+    },
+    "value" : {
+      "none" : [ "Bern. Das Münster" ]
+    }
+  }, {
+    "label" : {
+      "none" : [ "Imprint" ]
+    },
+    "value" : {
+      "none" : [ "[Zürich] : [Photoglob & Co. Zürich], [zwischen 1902 und 1904]" ]
+    }
+  }, {
+    "label" : {
+      "none" : [ "Description" ]
+    },
+    "value" : {
+      "none" : [ "1 Druckgrafik : Photochromdruck ; 22,4 x 16,7 cm" ]
+    }
+  }, {
+    "label" : {
+      "none" : [ "Providing Institution" ]
+    },
+    "value" : {
+      "none" : [ "ZB Zürich, Photochrom CH BE 021" ]
+    }
+  }, {
+    "label" : {
+      "none" : [ "Online since" ]
+    },
+    "value" : {
+      "none" : [ "10/09/2020" ]
+    }
+  }, {
+    "label" : {
+      "none" : [ "DOI" ]
+    },
+    "value" : {
+      "none" : [ "https://doi.org/10.3931/e-rara-85817" ]
+    }
+  } ],
+  "motivation" : null,
+  "navDate" : null,
+  "provider" : [ {
+    "id" : "http://example.org/provider",
+    "type" : "Agent"
+  } ],
+  "partOf" : [ ],
+  "posterCanvas" : null,
+  "accompanyingCanvas" : null,
+  "placeholderCanvas" : null,
+  "rendering" : [ ],
+  "requiredStatement" : {
+    "label" : {
+      "none" : [ "Attribution" ]
+    },
+    "value" : {
+      "none" : [ "e-rara, the platform for digitized rare books from Swiss institutions" ]
+    }
+  },
+  "rights" : "http://creativecommons.org/publicdomain/mark/1.0/deed.en",
+  "seeAlso" : [ {
+    "id" : "https://www.e-rara.ch/oai?verb=GetRecord&metadataPrefix=mets&identifier=24389624",
+    "type" : "ContentResource"
+  } ],
+  "service" : [ ],
+  "services" : [ ],
+  "start" : null,
+  "structures" : [ ],
+  "summary" : {
+    "en" : [ "" ]
+  },
+  "thumbnail" : [ {
+    "id" : "https://www.e-rara.ch/i3f/v21/24389625/full/304/0/default.jpg",
+    "type" : "ContentResource"
+  } ],
+  "viewingDirection" : "left-to-right",
+  "@context" : "http://iiif.io/api/presentation/3/context.json"
+}
