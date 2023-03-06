@@ -6,6 +6,63 @@
   "type" : "Manifest",
   "@context" : "http://iiif.io/api/presentation/3/context.json",
   "items" : [ {
+    "width" : 2975,
+    "id" : "https://eliaskreyenbuehl.github.io/T1-2023/images/MuensterStrasbourg/canvas/",
+    "label" : {
+      "none" : [ "MuensterStrasbourg" ]
+    },
+    "type" : "Canvas",
+    "items" : [ {
+      "id" : "https://eliaskreyenbuehl.github.io/T1-2023/images/MuensterStrasbourg/AnnoPage/",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "motivation" : "Painting",
+        "id" : "https://eliaskreyenbuehl.github.io/T1-2023/images/MuensterStrasbourg/annotation/",
+        "type" : "Annotation",
+        "body" : {
+          "service" : [ {
+            "tiles" : [ {
+              "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+              "width" : 1024,
+              "height" : 1024
+            } ],
+            "protocol" : "http://iiif.io/api/image",
+            "sizes" : [ {
+              "width" : 93,
+              "height" : 126
+            }, {
+              "width" : 186,
+              "height" : 252
+            }, {
+              "width" : 372,
+              "height" : 504
+            }, {
+              "width" : 744,
+              "height" : 1008
+            }, {
+              "width" : 1488,
+              "height" : 2016
+            }, {
+              "width" : 2975,
+              "height" : 4032
+            } ],
+            "profile" : "http://iiif.io/api/image/2/level0.json",
+            "width" : 2975,
+            "@id" : "https://eliaskreyenbuehl.github.io/T1-2023/images/MuensterStrasbourg",
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "height" : 4032
+          } ],
+          "format" : "image/jpeg",
+          "width" : 2975,
+          "id" : "https://eliaskreyenbuehl.github.io/T1-2023/images/MuensterStrasbourg/full/full/0/default.jpg",
+          "type" : "Image",
+          "height" : 4032
+        },
+        "target" : "https://eliaskreyenbuehl.github.io/T1-2023/images/MuensterStrasbourg/canvas/"
+      } ]
+    } ],
+    "height" : 4032
+  }, {
     "width" : 4032,
     "id" : "https://eliaskreyenbuehl.github.io/T1-2023/images/Strasbourg_Feb_2023/canvas/",
     "label" : {
