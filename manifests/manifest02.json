@@ -54,7 +54,7 @@
         "motivation" : "sc:painting",
         "on" : "https://www.e-rara.ch/i3f/v20/24389624/canvas/24389625",
         "resource" : {
-          "@id" : "https://www.e-rara.ch/download/webcache/1000/24389625",
+          "@id" : "https://www.e-rara.ch/i3f/v20/24389625/165,102,5195,7037/full/0/default.jpg",
           "@type" : "dctypes:Image",
           "format" : "image/jpeg",
           "height" : 1178,
