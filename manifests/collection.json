@@ -1,0 +1,15 @@
+{
+  "id" : "https://eliaskreyenbuehl.github.io/T1-2023/manifests/collection.json",
+  "label" : {
+    "en" : [ "All manifests loaded in eliaskreyenbuehl/T1-2023 project" ]
+  },
+  "type" : "Collection",
+  "@context" : "http://iiif.io/api/presentation/3/context.json",
+  "items" : [ {
+    "id" : "https://eliaskreyenbuehl.github.io/T1-2023/manifests/muenster01_manifest.json",
+    "label" : {
+      "none" : [ "" ]
+    },
+    "type" : "Manifest"
+  } ]
+}
