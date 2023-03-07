@@ -1,0 +1,87 @@
+{
+  "viewingHint" : "paged",
+  "attribution" : "e-manuscripta.ch, the digital platform for manuscript material from Swiss libraries and archives",
+  "service" : [ ],
+  "license" : "https://creativecommons.org/publicdomain/mark/1.0/deed.en",
+  "structures" : [ ],
+  "sequences" : [ {
+    "canvases" : [ {
+      "height" : 3379,
+      "width" : 4076,
+      "images" : [ {
+        "resource" : {
+          "service" : {
+            "profile" : "http://iiif.io/api/image/2/level2.json",
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://www.e-manuscripta.ch/i3f/v20/22858"
+          },
+          "format" : "image/jpeg",
+          "height" : 828,
+          "width" : 1000,
+          "@id" : "https://www.e-manuscripta.ch/download/webcache/1000/22858",
+          "@type" : "dctypes:Image"
+        },
+        "on" : "https://www.e-manuscripta.ch/i3f/v20/22856/canvas/22858",
+        "motivation" : "sc:painting",
+        "@id" : "https://www.e-manuscripta.ch/i3f/v20/22856/annotation/22858",
+        "@type" : "oa:Annotation"
+      } ],
+      "label" : "[1]",
+      "@id" : "https://www.e-manuscripta.ch/i3f/v20/22856/canvas/22858",
+      "@type" : "sc:Canvas"
+    } ],
+    "viewingHint" : "paged",
+    "startCanvas" : "https://www.e-manuscripta.ch/i3f/v20/22856/canvas/22858",
+    "viewingDirection" : "left-to-right",
+    "label" : "Current Page Order",
+    "@context" : "http://iiif.io/api/presentation/2/context.json",
+    "@id" : "https://www.e-manuscripta.ch/i3f/v20/22856/sequence/normal",
+    "@type" : "sc:Sequence"
+  } ],
+  "label" : "1 gedrucktes Erinnerungsblatt an Mitwirkende der Zürcher Wagner-Konzerte 1853",
+  "thumbnail" : {
+    "width" : 304,
+    "height" : 252,
+    "@id" : "https://www.e-manuscripta.ch/i3f/v21/22858/full/304/0/default.jpg",
+    "@type" : "dctypes:Image",
+    "format" : "image/jpeg"
+  },
+  "logo" : {
+    "@id" : "https://www.e-manuscripta.ch/domainimage/logo.svg",
+    "service" : {
+      "profile" : "http://iiif.io/api/image/2/level2.json",
+      "@context" : "http://iiif.io/api/image/2/context.json",
+      "@id" : "http://www.zb.uzh.ch"
+    }
+  },
+  "@context" : "http://iiif.io/api/presentation/2/context.json",
+  "metadata" : [ {
+    "value" : "1 gedrucktes Erinnerungsblatt an Mitwirkende der Zürcher Wagner-Konzerte 1853 / von Richard Wagner",
+    "label" : "Title"
+  }, {
+    "value" : "Wagner, Richard [1813-1883]",
+    "label" : "Author, Contributors"
+  }, {
+    "value" : "Wagner-Konzerte (1853 ; Zürich). Mitwirkende.",
+    "label" : "Recipient(s)"
+  }, {
+    "value" : "Zürich, 1853.05",
+    "label" : "Place and Date of Creation"
+  }, {
+    "value" : "Zentralbibliothek Zürich, Autogr Bebler M 181.3.6",
+    "label" : "Providing Institution"
+  }, {
+    "value" : "26/02/2013",
+    "label" : "Online since"
+  }, {
+    "value" : "https://doi.org/10.7891/e-manuscripta-51",
+    "label" : "DOI"
+  } ],
+  "@id" : "https://eliaskreyenbuehl.github.io/T1-2023/manifests/22856manifest.json",
+  "@type" : "sc:Manifest",
+  "seeAlso" : {
+    "format" : "application/xml",
+    "@id" : "https://www.e-manuscripta.ch/oai?verb=GetRecord&metadataPrefix=mets&identifier=22856",
+    "label" : "METS"
+  }
+}
