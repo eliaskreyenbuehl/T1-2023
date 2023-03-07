@@ -15,5 +15,9 @@
     "@type" : "sc:Manifest",
     "@id" : "https://eliaskreyenbuehl.github.io/T1-2023/manifests/manifest02.json",
     "label" : ""
+  }, {
+    "@type" : "sc:Manifest",
+    "@id" : "https://eliaskreyenbuehl.github.io/T1-2023/manifests/22856manifest.json",
+    "label" : "1 gedrucktes Erinnerungsblatt an Mitwirkende der Zürcher Wagner-Konzerte 1853"
   } ]
 }
