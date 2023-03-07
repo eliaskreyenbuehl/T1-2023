@@ -41,7 +41,7 @@
     "canvases" : [ {
       "@id" : "https://www.e-rara.ch/i3f/v20/24389624/canvas/24389625",
       "@type" : "sc:Canvas",
-      "height" : 7073,
+      "height" : 7037,
       "width" : 5195,
       "label" : "Photochromdruck, ca. 1902",
       "metadata" : [ {
